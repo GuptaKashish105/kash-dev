@@ -92,7 +92,7 @@ const Hero: React.FC = () => {
 
             <div className="flex flex-wrap items-center gap-4">
               <a
-                href="https://drive.google.com/file/d/18U7EgLPoDwGrRTi422q-F-eizBBLRwic/view?usp=sharing"
+                href="https://drive.google.com/file/d/1tnoZuO4reE9nYdWtGnpwxfy2QsJd6eHG/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group inline-flex items-center gap-3 bg-blue-600 text-white px-8 py-4 rounded-2xl font-semibold transition-all hover:bg-blue-500 hover:scale-105 active:scale-95 shadow-2xl shadow-blue-500/20"
